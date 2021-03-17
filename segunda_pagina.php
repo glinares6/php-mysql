@@ -24,7 +24,7 @@
             echo $nombre,$edad;
             // print -> funcion 
             // echo ->Expresion
-
+        se agrego el comentario de que mañana seguiremos el temario<[]
         ?>
 </body>
 </html>
