@@ -25,7 +25,7 @@
             // print -> funcion 
             // echo ->Expresion
     //    se agrego el comentario de que mañana seguiremos el temario
-    // prueba de comentario en php
+ 
         ?>
 </body>
 </html>
