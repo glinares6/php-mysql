@@ -39,5 +39,9 @@
 			// en caso de no reconocer las tildes hacer &vocalacute;
 			echo "cuídate";
 		}
+
+
+		// operador ternario
+		// echo $edad<18 ? "eres  menor de edad, no puedes acceder " : "puedes acceder";
 	}
 ?>
